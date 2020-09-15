@@ -29,7 +29,7 @@ dd {
 
 }
 nav ul {
-  display: inline-block;
+  display: inline;
   list-style: none;
   text-align: center;
   padding: 0;
